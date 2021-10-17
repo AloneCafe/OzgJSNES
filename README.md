@@ -1,3 +1,6 @@
+2021/10/18 修复一些 JS 的 CDN 地址
+
+------
 
 核心部分使用jsnes，https://github.com/bfirsh/jsnes
 
